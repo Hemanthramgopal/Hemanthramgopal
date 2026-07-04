@@ -63,11 +63,8 @@ A Machine Learning application that predicts employee salaries using Python, dat
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthramgopal&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthramgopal&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
 
 ---
@@ -75,9 +72,7 @@ A Machine Learning application that predicts employee salaries using Python, dat
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Hemanthramgopal&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -105,9 +100,9 @@ A Machine Learning application that predicts employee salaries using Python, dat
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hemanth-ram-gopal-ramana-kumar-pudi)
 
-📧 Email: YOUR_EMAIL
+📧 Email: hemanthrampudi@gmail.com
 
 ---
 
