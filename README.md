@@ -59,9 +59,14 @@ An AI-powered SaaS platform designed to provide business insights through analyt
 A Machine Learning application that predicts employee salaries using Python, data preprocessing, and regression algorithms.
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthramgopal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthramgopal&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
 
-
+=====
 ## 🔥 GitHub Streak
 
 <p align="center">
